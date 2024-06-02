@@ -1,0 +1,2 @@
+# GDZ-Elektrik-Datathon-2024
+CODERSPACE · COMMUNITY PREDICTION COMPETITION    GDZ Elektrik Datathon 2024 - Final:
